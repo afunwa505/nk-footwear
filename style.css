@@ -30,7 +30,7 @@ span{
     margin:20px 0 10px -30%;
     width: 15%;
     height: 120px;
-    background: url('logo.jpg');
+    background: url('../images/logo.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 50%;
@@ -93,114 +93,114 @@ nav ul li a:hover{
     this div contains the sliding images
     */
     animation: afunwa;
-    animation-duration: 30s;
+    animation-duration: 20s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     border-radius: 16px;
 }
 @keyframes afunwa{
     0%{
-    background: url('a1.jpg');
+    background: url('../images/a1.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     }
     5%{
-        background: url('IMG-20211218-WA0028.jpg');
+        background: url('../images/IMG-20211218-WA0028.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     10%{
-         background: url('IMG-20211218-WA0005.jpg');
+         background: url('../images/IMG-20211218-WA0005.jpg');
          background-size: 100% 100%;
          background-repeat: no-repeat;
         }
     15%{
-        background: url('IMG-20211218-WA0008.jpg');
+        background: url('../images/IMG-20211218-WA0008.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
          }
     20%{
-        background: url('FB_IMG_16534101060246057.jpg');
+        background: url('../images/FB_IMG_16534101060246057.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     25%{
-        background: url('IMG-20211218-WA0016.jpg');
+        background: url('../images/IMG-20211218-WA0016.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     30%{
-        background: url('IMG-20211218-WA0017.jpg');
+        background: url('../images/IMG-20211218-WA0017.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     35%{
-        background: url('IMG-20211218-WA0030.jpg');
+        background: url('../images/IMG-20211218-WA0030.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     40%{
-        background: url('IMG-20211218-WA0031.jpg');
+        background: url('../images/IMG-20211218-WA0031.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     45%{
-        background: url('IMG-20211218-WA0032.jpg');
+        background: url('../images/IMG-20211218-WA0032.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     50%{
-        background: url('IMG-20211218-WA0033.jpg');
+        background: url('../images/IMG-20211218-WA0033.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     55%{
-        background: url('FB_IMG_16517369997488607.jpg');
+        background: url('../images/FB_IMG_16517369997488607.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     60%{
-        background: url('IMG-20211218-WA0018.jpg');
+        background: url('../images/IMG-20211218-WA0018.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     65%{
-        background: url('IMG-20211218-WA0056.jpg');
+        background: url('../images/IMG-20211218-WA0056.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     70%{
-        background: url('IMG-20211218-WA0035.jpg');
+        background: url('../images/IMG-20211218-WA0035.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     75%{
-        background: url('IMG-20211218-WA0025.jpg');
+        background: url('../images/IMG-20211218-WA0025.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     80%{
-        background: url('IMG-20211218-WA0059.jpg');
+        background: url('../images/IMG-20211218-WA0059.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     85%{
-        background: url('IMG-20211218-WA0060.jpg');
+        background: url('../images/IMG-20211218-WA0060.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     90%{
-        background: url('IMG-20211218-WA0026.jpg');
+        background: url('../images/IMG-20211218-WA0026.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     95%{
-        background: url('IMG-20211218-WA0062.jpg');
+        background: url('../images/IMG-20211218-WA0062.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
     100%{
-        background: url('IMG-20211218-WA0023.jpg');
+        background: url('../images/IMG-20211218-WA0023.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         }
@@ -251,7 +251,7 @@ nav ul li a:hover{
     contained in container3
     */
     border-radius: 17px;
-    background: url('a1.jpg');
+    background: url('../images/a1.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -286,7 +286,7 @@ nav ul li a:hover{
     a div inside container3
     */
     border-radius: 17px;
-    background: url('m-shoe.JPG');
+    background: url('../images/m-shoe.JPG');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -295,7 +295,7 @@ nav ul li a:hover{
     a div inside container3
     */
     border-radius: 17px;
-    background: url('FB_IMG_16517369997488607.jpg');
+    background: url('../images/FB_IMG_16517369997488607.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -319,7 +319,7 @@ article{
     a div in container4
     */
     border-radius: 17px;
-    background: url('FB_IMG_16534101060246057.jpg');
+    background: url('../images/FB_IMG_16534101060246057.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -328,7 +328,7 @@ article{
     a div in container4
     */
     border-radius: 17px;
-    background: url('IMG-20211218-WA0005.jpg');
+    background: url('../images/IMG-20211218-WA0005.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -337,7 +337,7 @@ article{
     a div in container4
     */
     border-radius: 17px;
-    background: url('FB_IMG_16534101006880311.jpg');
+    background: url('../images/FB_IMG_16534101006880311.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -346,7 +346,7 @@ article{
     a div in container5
     */
     border-radius: 17px;
-    background: url('FB_IMG_16517369997488607.jpg');
+    background: url('../images/FB_IMG_16517369997488607.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -355,7 +355,7 @@ article{
     a div in container5
     */
     border-radius: 17px;
-    background: url('IMG-20211218-WA0008.jpg');
+    background: url('../images/IMG-20211218-WA0008.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -364,7 +364,7 @@ article{
     a div in container5
     */
     border-radius: 17px;
-    background: url('IMG-20211218-WA0004.jpg');
+    background: url('../images/IMG-20211218-WA0004.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -373,7 +373,7 @@ article{
     a div in container6
     */
     border-radius: 17px;
-    background: url('IMG-20211218-WA0068.jpg');
+    background: url('../images/IMG-20211218-WA0068.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -382,7 +382,7 @@ article{
     a div in container6
     */
     border-radius: 17px;
-    background: url('IMG-20211218-WA0032.jpg');
+    background: url('../images/IMG-20211218-WA0032.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -391,7 +391,7 @@ article{
     a div in container6
     */
     border-radius: 17px;
-    background: url('IMG-20211218-WA0044.jpg');
+    background: url('../images/IMG-20211218-WA0044.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -591,15 +591,23 @@ footer{
 @media screen and (max-width: 575px){
     
     .logo{
-      width: 15%;
-      height: 100px;  
-      margin:20px 0 10px -15%;
+      width: 20%;
+      height: 120px;  
+      margin:20px 0 10px -18%;
     }
     .name{
-        font-size: x-small;
+        font-size:xx-small;
+        margin: 20px 0 0 -40%;
     }
     nav ul{
         font-size: x-small;
+    }
+    ol li{
+        margin: 0 0 10px 0;
+    }
+    #shop{
+        width: auto;
+        height: auto;
     }
     .container1{
         width: 100%;
@@ -615,7 +623,12 @@ footer{
     .container3, article{
         display: none;
     }
-    .container4, .container5, .container6, .container8{
+    .container4, .container5, .container6{
+        background-color: black;
+        flex-direction: column;
+        height: 1000px;
+    }
+    .container8{
         flex-direction: column;
         height: 1000px;
     }
@@ -632,7 +645,7 @@ footer{
     .container8 div{
         width: 100%;
         height: -8px;
-        text-align: center;
+        padding: 10px;
     }
     .container9, .container10, .container11, .container12{
         flex-direction: column;
@@ -649,6 +662,10 @@ footer{
     .container12 img{
         width: 100%;
     }
+    .container13{
+        width: 100%;
+        height: auto;
+    }
     .sub-footer{
         flex-direction: column;
         width: 100%;
@@ -659,14 +676,18 @@ footer{
         padding: 10px;
     }
     .sub-footer div img{
-        width: 10%;
-        height: 40px;
+        width: 20%;
+        height: 45px;
         padding: 0 0 0 20px;
         
     }
     .social-media-icons{
         margin: 0 0 40px 0;
         
+    }
+    footer{
+        width: 100%;
+        height: 60px;
     }
     
 }
