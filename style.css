@@ -485,6 +485,9 @@ footer{
         font-size:xx-small;
         margin: 20px 0 0 -40%;
     }
+    nav{
+        width: 100%;
+    }
     nav ul{
         font-size: x-small;
     }
