@@ -524,6 +524,7 @@ footer{
     .container8{
         flex-direction: column;
         height: 1000px;
+        padding: 0 10px;
     }
     .container4 div{
         width: 100%;
@@ -563,6 +564,9 @@ footer{
         flex-direction: column;
         width: 100%;
         height: auto;;
+    }
+    .sub-footer p{
+        padding: 0 10px;   
     }
     .sub-footer div{
         width: 100%;
