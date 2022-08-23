@@ -554,10 +554,20 @@ footer{
         flex-direction: column;
         height: 1000px;
     }
-    .container8{
+   .container8{
         flex-direction: column;
-        height: 1000px;
-        padding: 0 10px;
+        height: 700px;
+    }
+    .card_wrapper{
+        width: 50%;
+        height: 580px;
+        margin:20px auto;    
+    }
+    .mine img{
+        margin: 50px 0 0 25%;
+    }
+    .mine div{
+        height: 370px;
     }
     .container4 div{
         width: 100%;
