@@ -489,6 +489,12 @@ footer{
         height: 600px;
         text-align: justify;
     }
+    .mine div{
+        height: 300px;
+    }
+    .mine img{
+        margin: 50px 0 0 30%;
+    }
     .container11{
         width: 100%;
         display: flex;
