@@ -565,9 +565,12 @@ footer{
     .container6 div {
         width: 100%;
     }
+    .container7{
+        margin: 70px 0 0 0;   
+    }
     .container8{
         
-        height: 600px;
+        height: 650px;
     }
     .card_wrapper{
         width: 80%;
