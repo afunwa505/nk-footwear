@@ -22,3 +22,19 @@ function showSlides (){
     slides[slideIndex-1].style.display = 'block';
     setTimeout(showSlides,5000);
 }
+
+var IndexSlide = 0;
+showSlide ();
+function showSlide (){
+    var j;
+    var slide = document.getElementsByClassName('mine');
+    for(j = 0; j< slide.length; j++) {
+        slide[j].style.display = 'none';
+    }
+    IndexSlide++;
+    if(IndexSlide >slide.length){
+        IndexSlide = 1;
+    }
+    slide[IndexSlide-1].style.display = 'block';
+    setTimeout(showSlide,10000);
+}
