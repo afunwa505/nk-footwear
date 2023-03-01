@@ -40,4 +40,4 @@ function showSlide (){
 }
 
 const d = new Date();
-document.getElementById("show_date").innerHTML = d.getFullYear();
+document.getElementByTagName('footer').innerHTML = d.getFullYear();
