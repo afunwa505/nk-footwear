@@ -40,4 +40,4 @@ function showSlide (){
 }
 
 const date = new date();
-document.querySelector('.dates').innerHTML = date.getFullYear;
+document.querySelector('.dates').innerHTML = date.getFullYear();
