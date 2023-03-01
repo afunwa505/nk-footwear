@@ -39,5 +39,5 @@ function showSlide (){
     setTimeout(showSlide,10000);
 }
 
-const date = new date();
-document.querySelector('.dates').innerHTML = date.getFullYear();
+const d = new Date();
+document.querySelector('.dates').innerHTML = d.getFullYear();
