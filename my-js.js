@@ -38,3 +38,6 @@ function showSlide (){
     slide[IndexSlide-1].style.display = 'block';
     setTimeout(showSlide,10000);
 }
+
+const date = new date();
+document.querySelector('.dates').innerHTML = date.getFullYear;
